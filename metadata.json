@@ -1,0 +1,5 @@
+{
+  "description": "Scientific simulator for onion cutting techniques. Analyze slice geometry and efficiency in 3D.",
+  "requestFramePermissions": [],
+  "name": "Onion Lab"
+}
