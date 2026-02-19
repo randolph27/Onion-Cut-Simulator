@@ -2,6 +2,9 @@
 
 Eine wissenschaftliche, interaktive 3D-Simulation zur Analyse der Effizienz verschiedener Schneidetechniken bei Zwiebeln. Diese Anwendung untersucht die Hypothese, ob horizontale Schnitte beim Würfeln von Zwiebeln tatsächlich zu einer gleichmäßigeren Stückgröße führen oder ob sie, bedingt durch die natürliche Schalenstruktur der Zwiebel, vernachlässigbar sind.
 
+<img width="1378" height="766" alt="image" src="https://github.com/user-attachments/assets/61e13e59-3b1b-4073-a97d-153eecdf6f0e" />
+
+
 ## 🎯 Zielsetzung
 
 Viele Köche schneiden Zwiebeln horizontal ein, um "feinere Würfel" zu erhalten. Kritiker (und der Autor dieser Idee) argumentieren, dass die konzentrischen Schichten der Zwiebel diesen Schnitt bereits natürlich vorgeben und der horizontale Schnitt daher überflüssig ist. Diese App liefert mathematische Beweise durch Monte-Carlo-Simulationen.
